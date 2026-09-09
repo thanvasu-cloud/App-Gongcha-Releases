@@ -1,13 +1,13 @@
 {
-  "latest": "1.0.1",
-  "minimumRequired": "1.0.1",
-  "url": "https://github.com/thanvasu-cloud/App-Gongcha-Releases/releases/download/windows-v1.0.1/GongChaKiosk-1.0.1-windows.exe",
-  "sha256": "ac094db72f4ef7c5bccf71c6b061a65f76ac852c0d6dad688ffd3653744b3a31",
-  "size": 316041595,
+  "latest": "1.0.2",
+  "minimumRequired": "1.0.2",
+  "url": "https://github.com/thanvasu-cloud/App-Gongcha-Releases/releases/download/windows-v1.0.2/GongChaKiosk-1.0.2-windows.exe",
+  "sha256": "34dde9a0223197a1785dbdeb5119aaa52b24799b4e1f332b33d3d92d54d7f1a2",
+  "size": 316043760,
   "force": true,
   "releaseNotes": {
-    "th": "อัปเดตความเสถียรของตู้",
-    "en": "Stability update"
+    "th": "ทดสอบ auto-update 1.0.1 ไป 1.0.2",
+    "en": "Auto-update test 1.0.1 to 1.0.2"
   },
-  "releasedAt": "2026-09-09T00:00:00Z"
+  "releasedAt": "2026-09-09T08:00:00Z"
 }
