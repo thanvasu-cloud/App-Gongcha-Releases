@@ -1,13 +1,13 @@
-{
-  "latest": "1.0.3",
-  "minimumRequired": "1.0.3",
-  "url": "https://github.com/thanvasu-cloud/App-Gongcha-Releases/releases/download/windows-v1.0.3/GongChaKiosk-1.0.3-windows.exe",
-  "sha256": "2ecbd3a3a30ebb4386c45ef704733aec0d6a05cd39c22b8bab5abd0d257eac9f",
-  "size": 316044111,
-  "force": true,
-  "releaseNotes": {
-    "th": "ย้ายติดตั้งแบบ per-user + แก้ VDO หน้า welcome ไม่เล่น",
-    "en": "Per-user install + fix welcome video playback"
-  },
-  "releasedAt": "2026-09-09T09:00:00Z"
+﻿{
+    "latest":  "1.0.4",
+    "minimumRequired":  "1.0.4",
+    "url":  "https://github.com/thanvasu-cloud/App-Gongcha-Releases/releases/download/windows-v1.0.4/GongChaKiosk-1.0.4-windows.exe",
+    "sha256":  "f242f73aac150b1e5a1862ab450aeae5498ba12d49f05fa0003c1bcbf25ba693",
+    "size":  316042474,
+    "force":  true,
+    "releaseNotes":  {
+                         "th":  "test",
+                         "en":  "Daily check schedule test (11:00 ICT)"
+                     },
+    "releasedAt":  "2026-09-10T03:42:14Z"
 }
