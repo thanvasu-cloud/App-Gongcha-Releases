@@ -2,8 +2,8 @@
     "latest":  "1.0.5",
     "minimumRequired":  "1.0.5",
     "url":  "https://github.com/thanvasu-cloud/App-Gongcha-Releases/releases/download/windows-v1.0.5/GongChaKiosk-1.0.5-windows.exe",
-    "sha256":  "b7f67531ce881a94a086b06e8487e74bcc4f5142d3f9286270ce016d935e9ea6",
-    "size":  316048491,
+    "sha256":  "d61314f7fe7d2ce0c89b0c8fa5acd2394e7ffd25db817bfd86923364b20e2ae3",
+    "size":  316049618,
     "force":  true,
     "releaseNotes":  {
                          "th":  "media",
