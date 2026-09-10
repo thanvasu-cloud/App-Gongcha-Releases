@@ -9,5 +9,14 @@
                          "th":  "media",
                          "en":  "Remote welcome video via channel + daily check 23:00 ICT"
                      },
-    "releasedAt":  "2026-09-10T06:09:52Z"
+    "releasedAt":  "2026-09-10T06:09:52Z",
+    "video": {
+        "default": {
+            "version": "2026-09-10",
+            "url": "https://github.com/thanvasu-cloud/App-Gongcha-Releases/releases/download/media-2026-09-10/vdo_gong_cha.mp4",
+            "sha256": "9c7838fd5894ae849c7161c37756da2f05f875a5d838f190d915df7a8b0e1f34",
+            "size": 51932452
+        },
+        "branches": {}
+    }
 }
