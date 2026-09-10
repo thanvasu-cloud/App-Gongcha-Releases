@@ -1,13 +1,13 @@
 ﻿{
-    "latest":  "1.0.4",
-    "minimumRequired":  "1.0.4",
-    "url":  "https://github.com/thanvasu-cloud/App-Gongcha-Releases/releases/download/windows-v1.0.4/GongChaKiosk-1.0.4-windows.exe",
-    "sha256":  "f242f73aac150b1e5a1862ab450aeae5498ba12d49f05fa0003c1bcbf25ba693",
-    "size":  316042474,
+    "latest":  "1.0.5",
+    "minimumRequired":  "1.0.5",
+    "url":  "https://github.com/thanvasu-cloud/App-Gongcha-Releases/releases/download/windows-v1.0.5/GongChaKiosk-1.0.5-windows.exe",
+    "sha256":  "b7f67531ce881a94a086b06e8487e74bcc4f5142d3f9286270ce016d935e9ea6",
+    "size":  316048491,
     "force":  true,
     "releaseNotes":  {
-                         "th":  "test",
-                         "en":  "Daily check schedule test (11:00 ICT)"
+                         "th":  "media",
+                         "en":  "Remote welcome video via channel + daily check 23:00 ICT"
                      },
-    "releasedAt":  "2026-09-10T03:42:14Z"
+    "releasedAt":  "2026-09-10T06:09:52Z"
 }
