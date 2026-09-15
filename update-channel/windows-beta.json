@@ -1,0 +1,13 @@
+﻿{
+    "latest":  "1.1.1",
+    "minimumRequired":  "1.1.1",
+    "url":  "https://github.com/thanvasu-cloud/App-Gongcha-Releases/releases/download/windows-beta-v1.1.1/GongChaKiosk-1.1.1-beta-windows.exe",
+    "sha256":  "8389f51de078eb07f14de6c611439592959cdfc4fc54639d4bf3c9555e7b256f",
+    "size":  316088548,
+    "force":  true,
+    "releaseNotes":  {
+                         "th":  "à¸£à¸¸à¹ˆà¸™à¸—à¸”à¸ªà¸­à¸š 1.1.1 (dual-channel beta)",
+                         "en":  "Beta 1.1.1 (dual-channel beta)"
+                     },
+    "releasedAt":  "2026-09-15T09:57:16Z"
+}
