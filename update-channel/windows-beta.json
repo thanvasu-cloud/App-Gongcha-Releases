@@ -1,13 +1,13 @@
 {
-    "latest":  "1.1.1",
-    "minimumRequired":  "1.1.1",
-    "url":  "https://github.com/thanvasu-cloud/App-Gongcha-Releases/releases/download/windows-beta-v1.1.1/GongChaKiosk-1.1.1-beta-windows.exe",
-    "sha256":  "8389f51de078eb07f14de6c611439592959cdfc4fc54639d4bf3c9555e7b256f",
-    "size":  316088548,
+    "latest":  "1.1.2",
+    "minimumRequired":  "1.1.2",
+    "url":  "https://github.com/thanvasu-cloud/App-Gongcha-Releases/releases/download/windows-beta-v1.1.2/GongChaKiosk-1.1.2-beta-windows.exe",
+    "sha256":  "24c8c875e82ba3596ba81b26c7d9833803cdccc30965ca0bc8f53354be2c9490",
+    "size":  316092473,
     "force":  true,
     "releaseNotes":  {
-                         "th":  "à¸£à¸¸à¹ˆà¸™à¸—à¸”à¸ªà¸­à¸š 1.1.1 (dual-channel beta)",
-                         "en":  "Beta 1.1.1 (dual-channel beta)"
+                         "th":  "Beta 1.1.2: show download progress, error dialog on failure",
+                         "en":  "Beta 1.1.2: show download progress, error dialog on failure"
                      },
-    "releasedAt":  "2026-09-15T09:57:16Z"
+    "releasedAt":  "2026-09-15T11:02:45Z"
 }
