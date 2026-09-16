@@ -11,14 +11,14 @@
                      },
     "releasedAt":  "2026-09-16T06:48:56Z",
     "video":  {
-                  "default":  {
-                                  "version":  "2026-09-16-beta",
-                                  "url":  "https://github.com/thanvasu-cloud/App-Gongcha-Releases/releases/download/media-2026-09-16-beta/test_vdo.mp4",
-                                  "sha256":  "7e48a53b1ced60566d9704b725e32207685c4a800dd8faec2c5b762140c64c06",
-                                  "size":  22109256
-                              },
                   "branches":  {
 
-                               }
+                               },
+                  "default":  {
+                                  "version":  "2026-09-16-beta2",
+                                  "url":  "https://github.com/thanvasu-cloud/App-Gongcha-Releases/releases/download/media-2026-09-16-beta2/VDO kiosk_Order Here+Famouse5+20th.mp4",
+                                  "sha256":  "a66327fb5724791e94b7991c1f6e846c97c79d114ea22ad3787a472d8ade4f10",
+                                  "size":  27844591
+                              }
               }
 }
