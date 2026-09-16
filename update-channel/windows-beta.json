@@ -1,15 +1,15 @@
 {
-    "latest":  "1.1.4",
-    "minimumRequired":  "1.1.4",
-    "url":  "https://github.com/thanvasu-cloud/App-Gongcha-Releases/releases/download/windows-beta-v1.1.4/GongChaKiosk-1.1.4-beta-windows.exe",
-    "sha256":  "90477170496ab571381dacb43c7dbab4285e8155cab604246ac265822dabfc95",
-    "size":  316092659,
+    "latest":  "1.1.5",
+    "minimumRequired":  "1.1.5",
+    "url":  "https://github.com/thanvasu-cloud/App-Gongcha-Releases/releases/download/windows-beta-v1.1.5/GongChaKiosk-1.1.5-beta-windows.exe",
+    "sha256":  "c49453beb59dd471cc94d795900b84e73cfde37a974c3ddeeb5c7eff8239f43a",
+    "size":  316093173,
     "force":  true,
     "releaseNotes":  {
-                         "th":  "Beta 1.1.4",
-                         "en":  "Beta 1.1.4"
+                         "th":  "Beta 1.1.5: label FRESH MILK / NON-FOOD + VDO Order Here Famous5",
+                         "en":  "Beta 1.1.5: FRESH MILK / NON-FOOD labels + new welcome video"
                      },
-    "releasedAt":  "2026-09-16T04:46:43Z",
+    "releasedAt":  "2026-09-16T06:48:56Z",
     "video":  {
                   "default":  {
                                   "version":  "2026-09-16-beta",
