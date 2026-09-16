@@ -9,5 +9,16 @@
                          "th":  "Beta 1.1.4",
                          "en":  "Beta 1.1.4"
                      },
-    "releasedAt":  "2026-09-16T04:46:43Z"
+    "releasedAt":  "2026-09-16T04:46:43Z",
+    "video":  {
+                  "default":  {
+                                  "version":  "2026-09-16-beta",
+                                  "url":  "https://github.com/thanvasu-cloud/App-Gongcha-Releases/releases/download/media-2026-09-16-beta/test_vdo.mp4",
+                                  "sha256":  "7e48a53b1ced60566d9704b725e32207685c4a800dd8faec2c5b762140c64c06",
+                                  "size":  22109256
+                              },
+                  "branches":  {
+
+                               }
+              }
 }
