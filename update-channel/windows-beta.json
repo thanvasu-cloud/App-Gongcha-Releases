@@ -1,13 +1,13 @@
 {
-    "latest":  "1.1.3",
-    "minimumRequired":  "1.1.3",
-    "url":  "https://github.com/thanvasu-cloud/App-Gongcha-Releases/releases/download/windows-beta-v1.1.3/GongChaKiosk-1.1.3-beta-windows.exe",
-    "sha256":  "0a1f7a9ed2b271dcc5a6cf02d26bcf6a13579317cd78db4c594e01c0eb4529e2",
-    "size":  316093256,
+    "latest":  "1.1.4",
+    "minimumRequired":  "1.1.4",
+    "url":  "https://github.com/thanvasu-cloud/App-Gongcha-Releases/releases/download/windows-beta-v1.1.4/GongChaKiosk-1.1.4-beta-windows.exe",
+    "sha256":  "90477170496ab571381dacb43c7dbab4285e8155cab604246ac265822dabfc95",
+    "size":  316092659,
     "force":  true,
     "releaseNotes":  {
-                         "th":  "Beta 1.1.3: dialog cannot block update, retry 30min",
-                         "en":  "Beta 1.1.3: dialogs over welcome no longer block update, busy retry 30min"
+                         "th":  "Beta 1.1.4",
+                         "en":  "Beta 1.1.4"
                      },
-    "releasedAt":  "2026-09-15T11:29:30Z"
+    "releasedAt":  "2026-09-16T04:46:43Z"
 }
