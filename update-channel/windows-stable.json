@@ -1,22 +1,24 @@
 {
-    "latest":  "1.0.5",
-    "minimumRequired":  "1.0.5",
-    "url":  "https://github.com/thanvasu-cloud/App-Gongcha-Releases/releases/download/windows-v1.0.5/GongChaKiosk-1.0.5-windows.exe",
-    "sha256":  "d61314f7fe7d2ce0c89b0c8fa5acd2394e7ffd25db817bfd86923364b20e2ae3",
-    "size":  316049618,
+    "latest":  "1.1.8",
+    "minimumRequired":  "1.1.8",
+    "url":  "https://github.com/thanvasu-cloud/App-Gongcha-Releases/releases/download/windows-v1.1.8/GongChaKiosk-1.1.8-windows.exe",
+    "sha256":  "67c93542e7365548291144231c4800e294f8559d11cf742ab4553094879a710b",
+    "size":  343977606,
     "force":  true,
     "releaseNotes":  {
-                         "th":  "media",
-                         "en":  "Remote welcome video via channel + daily check 23:00 ICT"
+                         "th":  "1.1.8 ตัวจริง: ตั้งค่าที่มา VDO (Auto/Online/Local) + ตั้งค่า Auto Update (เปิด-ปิด/เวลา) + dialog แสดงความคืบหน้าตอนอัปเดต + แก้ busy check ค้าง",
+                         "en":  "1.1.8 Stable: video source setting (Auto/Online/Local) + Auto Update setting (on-off/schedule) + update progress dialog + busy-check fix"
                      },
-    "releasedAt":  "2026-09-10T06:09:52Z",
-    "video": {
-        "default": {
-            "version": "2026-09-10",
-            "url": "https://github.com/thanvasu-cloud/App-Gongcha-Releases/releases/download/media-2026-09-10/vdo_gong_cha.mp4",
-            "sha256": "9c7838fd5894ae849c7161c37756da2f05f875a5d838f190d915df7a8b0e1f34",
-            "size": 51932452
-        },
-        "branches": {}
-    }
+    "releasedAt":  "2026-09-24T15:28:30Z",
+    "video":  {
+                  "default":  {
+                                  "version":  "2026-09-10",
+                                  "url":  "https://github.com/thanvasu-cloud/App-Gongcha-Releases/releases/download/media-2026-09-10/vdo_gong_cha.mp4",
+                                  "sha256":  "9c7838fd5894ae849c7161c37756da2f05f875a5d838f190d915df7a8b0e1f34",
+                                  "size":  51932452
+                              },
+                  "branches":  {
+
+                               }
+              }
 }
