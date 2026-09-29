@@ -6,16 +6,16 @@
     "size":  343977606,
     "force":  true,
     "releaseNotes":  {
-                         "th":  "1.1.8 à¸•à¸±à¸§à¸ˆà¸£à¸´à¸‡: à¸•à¸±à¹‰à¸‡à¸„à¹ˆà¸²à¸—à¸µà¹ˆà¸¡à¸² VDO (Auto/Online/Local) + à¸•à¸±à¹‰à¸‡à¸„à¹ˆà¸² Auto Update (à¹€à¸›à¸´à¸”-à¸›à¸´à¸”/à¹€à¸§à¸¥à¸²) + dialog à¹à¸ªà¸”à¸‡à¸„à¸§à¸²à¸¡à¸„à¸·à¸šà¸«à¸™à¹‰à¸²à¸•à¸­à¸™à¸­à¸±à¸›à¹€à¸”à¸• + à¹à¸à¹‰ busy check à¸„à¹‰à¸²à¸‡",
+                         "th":  "1.1.8 Ã Â¸â€¢Ã Â¸Â±Ã Â¸Â§Ã Â¸Ë†Ã Â¸Â£Ã Â¸Â´Ã Â¸â€¡: Ã Â¸â€¢Ã Â¸Â±Ã Â¹â€°Ã Â¸â€¡Ã Â¸â€žÃ Â¹Ë†Ã Â¸Â²Ã Â¸â€”Ã Â¸ÂµÃ Â¹Ë†Ã Â¸Â¡Ã Â¸Â² VDO (Auto/Online/Local) + Ã Â¸â€¢Ã Â¸Â±Ã Â¹â€°Ã Â¸â€¡Ã Â¸â€žÃ Â¹Ë†Ã Â¸Â² Auto Update (Ã Â¹â‚¬Ã Â¸â€ºÃ Â¸Â´Ã Â¸â€-Ã Â¸â€ºÃ Â¸Â´Ã Â¸â€/Ã Â¹â‚¬Ã Â¸Â§Ã Â¸Â¥Ã Â¸Â²) + dialog Ã Â¹ÂÃ Â¸ÂªÃ Â¸â€Ã Â¸â€¡Ã Â¸â€žÃ Â¸Â§Ã Â¸Â²Ã Â¸Â¡Ã Â¸â€žÃ Â¸Â·Ã Â¸Å¡Ã Â¸Â«Ã Â¸â„¢Ã Â¹â€°Ã Â¸Â²Ã Â¸â€¢Ã Â¸Â­Ã Â¸â„¢Ã Â¸Â­Ã Â¸Â±Ã Â¸â€ºÃ Â¹â‚¬Ã Â¸â€Ã Â¸â€¢ + Ã Â¹ÂÃ Â¸ÂÃ Â¹â€° busy check Ã Â¸â€žÃ Â¹â€°Ã Â¸Â²Ã Â¸â€¡",
                          "en":  "1.1.8 Stable: video source setting (Auto/Online/Local) + Auto Update setting (on-off/schedule) + update progress dialog + busy-check fix"
                      },
     "releasedAt":  "2026-09-24T15:28:30Z",
     "video":  {
                   "default":  {
-                                  "version":  "2026-09-16-beta2",
-                                  "url":  "https://github.com/thanvasu-cloud/App-Gongcha-Releases/releases/download/media-2026-09-16-beta2/vdo-order-here-famous5-beta2.mp4",
-                                  "sha256":  "a66327fb5724791e94b7991c1f6e846c97c79d114ea22ad3787a472d8ade4f10",
-                                  "size":  27844591
+                                  "version":  "2026-09-29",
+                                  "url":  "https://github.com/thanvasu-cloud/App-Gongcha-Releases/releases/download/media-2026-09-29/vdo-order-here-famous5-20th.mp4",
+                                  "sha256":  "7f4bc2cf9385b8e7c337c1b70773bceb0320eebf11afff63ce932ab906066cd8",
+                                  "size":  28463116
                               },
                   "branches":  {
 
