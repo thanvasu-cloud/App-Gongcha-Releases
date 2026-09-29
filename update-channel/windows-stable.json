@@ -6,16 +6,16 @@
     "size":  343977606,
     "force":  true,
     "releaseNotes":  {
-                         "th":  "1.1.8 ตัวจริง: ตั้งค่าที่มา VDO (Auto/Online/Local) + ตั้งค่า Auto Update (เปิด-ปิด/เวลา) + dialog แสดงความคืบหน้าตอนอัปเดต + แก้ busy check ค้าง",
+                         "th":  "1.1.8 à¸•à¸±à¸§à¸ˆà¸£à¸´à¸‡: à¸•à¸±à¹‰à¸‡à¸„à¹ˆà¸²à¸—à¸µà¹ˆà¸¡à¸² VDO (Auto/Online/Local) + à¸•à¸±à¹‰à¸‡à¸„à¹ˆà¸² Auto Update (à¹€à¸›à¸´à¸”-à¸›à¸´à¸”/à¹€à¸§à¸¥à¸²) + dialog à¹à¸ªà¸”à¸‡à¸„à¸§à¸²à¸¡à¸„à¸·à¸šà¸«à¸™à¹‰à¸²à¸•à¸­à¸™à¸­à¸±à¸›à¹€à¸”à¸• + à¹à¸à¹‰ busy check à¸„à¹‰à¸²à¸‡",
                          "en":  "1.1.8 Stable: video source setting (Auto/Online/Local) + Auto Update setting (on-off/schedule) + update progress dialog + busy-check fix"
                      },
     "releasedAt":  "2026-09-24T15:28:30Z",
     "video":  {
                   "default":  {
-                                  "version":  "2026-09-10",
-                                  "url":  "https://github.com/thanvasu-cloud/App-Gongcha-Releases/releases/download/media-2026-09-10/vdo_gong_cha.mp4",
-                                  "sha256":  "9c7838fd5894ae849c7161c37756da2f05f875a5d838f190d915df7a8b0e1f34",
-                                  "size":  51932452
+                                  "version":  "2026-09-16-beta2",
+                                  "url":  "https://github.com/thanvasu-cloud/App-Gongcha-Releases/releases/download/media-2026-09-16-beta2/vdo-order-here-famous5-beta2.mp4",
+                                  "sha256":  "a66327fb5724791e94b7991c1f6e846c97c79d114ea22ad3787a472d8ade4f10",
+                                  "size":  27844591
                               },
                   "branches":  {
 
