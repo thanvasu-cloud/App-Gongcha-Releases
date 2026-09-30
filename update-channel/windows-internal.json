@@ -1,0 +1,24 @@
+{
+    "latest":  "1.1.8",
+    "minimumRequired":  "1.1.8",
+    "url":  "https://github.com/thanvasu-cloud/App-Gongcha-Releases/releases/download/windows-internal-v1.1.8/GongChaKiosk-1.1.8-internal-windows.exe",
+    "sha256":  "bc17b90da9c1c0e84b792e7131b568a445df1bf445079daaf9201bbc050fd6dd",
+    "size":  343984279,
+    "force":  true,
+    "releaseNotes":  {
+                         "th":  "Internal 1.1.8: ทดสอบภายใน (FREE ไม่รวม topping)",
+                         "en":  "Internal 1.1.8: internal test (FREE excludes topping)"
+                     },
+    "releasedAt":  "2026-09-30T11:04:23Z",
+    "video":  {
+                  "branches":  {
+
+                               },
+                  "default":  {
+                                  "version":  "2026-09-29",
+                                  "url":  "https://github.com/thanvasu-cloud/App-Gongcha-Releases/releases/download/media-2026-09-29/vdo-order-here-famous5-20th.mp4",
+                                  "sha256":  "7f4bc2cf9385b8e7c337c1b70773bceb0320eebf11afff63ce932ab906066cd8",
+                                  "size":  28463116
+                              }
+              }
+}
