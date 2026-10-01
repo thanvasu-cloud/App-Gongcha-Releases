@@ -1,15 +1,15 @@
 {
-    "latest":  "1.1.8",
-    "minimumRequired":  "1.1.8",
-    "url":  "https://github.com/thanvasu-cloud/App-Gongcha-Releases/releases/download/windows-v1.1.8/GongChaKiosk-1.1.8-windows.exe",
-    "sha256":  "67c93542e7365548291144231c4800e294f8559d11cf742ab4553094879a710b",
-    "size":  343977606,
+    "latest":  "1.1.9",
+    "minimumRequired":  "1.1.9",
+    "url":  "https://github.com/thanvasu-cloud/App-Gongcha-Releases/releases/download/windows-v1.1.9/GongChaKiosk-1.1.9-windows.exe",
+    "sha256":  "6046bb7a85a528602916788bf88e46ec638d8631f3d84bc34e2fb5ea454ccc14",
+    "size":  343983609,
     "force":  true,
     "releaseNotes":  {
-                         "th":  "1.1.8 Ã Â¸â€¢Ã Â¸Â±Ã Â¸Â§Ã Â¸Ë†Ã Â¸Â£Ã Â¸Â´Ã Â¸â€¡: Ã Â¸â€¢Ã Â¸Â±Ã Â¹â€°Ã Â¸â€¡Ã Â¸â€žÃ Â¹Ë†Ã Â¸Â²Ã Â¸â€”Ã Â¸ÂµÃ Â¹Ë†Ã Â¸Â¡Ã Â¸Â² VDO (Auto/Online/Local) + Ã Â¸â€¢Ã Â¸Â±Ã Â¹â€°Ã Â¸â€¡Ã Â¸â€žÃ Â¹Ë†Ã Â¸Â² Auto Update (Ã Â¹â‚¬Ã Â¸â€ºÃ Â¸Â´Ã Â¸â€-Ã Â¸â€ºÃ Â¸Â´Ã Â¸â€/Ã Â¹â‚¬Ã Â¸Â§Ã Â¸Â¥Ã Â¸Â²) + dialog Ã Â¹ÂÃ Â¸ÂªÃ Â¸â€Ã Â¸â€¡Ã Â¸â€žÃ Â¸Â§Ã Â¸Â²Ã Â¸Â¡Ã Â¸â€žÃ Â¸Â·Ã Â¸Å¡Ã Â¸Â«Ã Â¸â„¢Ã Â¹â€°Ã Â¸Â²Ã Â¸â€¢Ã Â¸Â­Ã Â¸â„¢Ã Â¸Â­Ã Â¸Â±Ã Â¸â€ºÃ Â¹â‚¬Ã Â¸â€Ã Â¸â€¢ + Ã Â¹ÂÃ Â¸ÂÃ Â¹â€° busy check Ã Â¸â€žÃ Â¹â€°Ã Â¸Â²Ã Â¸â€¡",
-                         "en":  "1.1.8 Stable: video source setting (Auto/Online/Local) + Auto Update setting (on-off/schedule) + update progress dialog + busy-check fix"
+                         "th":  "1.1.9 ตัวจริง: ตั้งค่าที่มา VDO (Auto/Online/Local) + ตั้งค่า Auto Update (เปิด-ปิด/เวลา) + dialog แสดงความคืบหน้าตอนอัปเดต + แก้ busy check ค้าง",
+                         "en":  "1.1.9 Stable: video source setting (Auto/Online/Local) + Auto Update setting (on-off/schedule) + update progress dialog + busy-check fix"
                      },
-    "releasedAt":  "2026-09-24T15:28:30Z",
+    "releasedAt":  "2026-10-01T15:41:44Z",
     "video":  {
                   "default":  {
                                   "version":  "2026-09-29",
