@@ -1,15 +1,15 @@
 {
-    "latest":  "1.1.9",
-    "minimumRequired":  "1.1.9",
-    "url":  "https://github.com/thanvasu-cloud/App-Gongcha-Releases/releases/download/windows-v1.1.9/GongChaKiosk-1.1.9-windows.exe",
-    "sha256":  "6046bb7a85a528602916788bf88e46ec638d8631f3d84bc34e2fb5ea454ccc14",
-    "size":  343983609,
+    "latest":  "1.2.0",
+    "minimumRequired":  "1.2.0",
+    "url":  "https://github.com/thanvasu-cloud/App-Gongcha-Releases/releases/download/windows-v1.2.0/GongChaKiosk-1.2.0-windows.exe",
+    "sha256":  "bcb0bb590ec77e16cdcd96a79b25738b6825052af6ada23b78881e307a2e7ad6",
+    "size":  343935186,
     "force":  true,
     "releaseNotes":  {
-                         "th":  "1.1.9 ตัวจริง: ตั้งค่าที่มา VDO (Auto/Online/Local) + ตั้งค่า Auto Update (เปิด-ปิด/เวลา) + dialog แสดงความคืบหน้าตอนอัปเดต + แก้ busy check ค้าง",
-                         "en":  "1.1.9 Stable: video source setting (Auto/Online/Local) + Auto Update setting (on-off/schedule) + update progress dialog + busy-check fix"
+                         "th":  "1.2.0 ตัวจริง: ตัวดาวน์โหลดอัปเดตใช้ WinHTTP/Schannel ของ Windows แก้ CERTIFICATE_VERIFY_FAILED ตอนโหลดจาก release-assets + ปรับรอบเช็คอัปเดต",
+                         "en":  "1.2.0 Stable: native WinHTTP/Schannel updater transport fixes CERTIFICATE_VERIFY_FAILED on release-assets downloads + check scheduler rework"
                      },
-    "releasedAt":  "2026-10-01T15:41:44Z",
+    "releasedAt":  "2026-10-02T06:56:19Z",
     "video":  {
                   "default":  {
                                   "version":  "2026-09-29",
