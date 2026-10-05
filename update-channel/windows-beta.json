@@ -1,24 +1,22 @@
 {
-    "latest":  "1.2.2",
-    "minimumRequired":  "1.2.2",
-    "url":  "https://github.com/thanvasu-cloud/App-Gongcha-Releases/releases/download/windows-beta-v1.2.2/GongChaKiosk-1.2.2-beta-windows.exe",
-    "sha256":  "5ea878a859b103065a0533dbb8b4b1c2fb921929a9ef81268bd95beb05b7420b",
-    "size":  343933324,
-    "force":  true,
-    "releaseNotes":  {
-                         "th":  "Beta 1.2.2: ตัวดาวน์โหลด WinHTTP/Schannel + เปิด auto update + VDO 2026-10-05",
-                         "en":  "Beta 1.2.2: WinHTTP/Schannel transport + auto update on + video 2026-10-05"
-                     },
-    "releasedAt":  "2026-10-05T08:57:45Z",
-    "video":  {
-                  "branches":  {
-
-                               },
-                  "default":  {
-                                  "version":  "2026-10-05",
-                                  "url":  "https://github.com/thanvasu-cloud/App-Gongcha-Releases/releases/download/media-2026-10-05/vdo-kiosk-1080x1498px.mp4",
-                                  "sha256":  "df492c50ad33e8b1c827f8ffc4ef2d5489958cdb3294a68b9b957f51b780a0ba",
-                                  "size":  28305573
-                              }
-              }
+    "latest": "1.2.2",
+    "minimumRequired": "1.2.2",
+    "url": "https://github.com/thanvasu-cloud/App-Gongcha-Releases/releases/download/windows-beta-v1.2.2/GongChaKiosk-1.2.2-beta-windows.exe",
+    "sha256": "5ea878a859b103065a0533dbb8b4b1c2fb921929a9ef81268bd95beb05b7420b",
+    "size": 343933324,
+    "force": true,
+    "releaseNotes": {
+        "th": "Beta 1.2.2: ตัวดาวน์โหลด WinHTTP/Schannel + เปิด auto update + VDO 2026-10-05",
+        "en": "Beta 1.2.2: WinHTTP/Schannel transport + auto update on + video 2026-10-05"
+    },
+    "releasedAt": "2026-10-05T08:57:45Z",
+    "video": {
+        "branches": {},
+        "default": {
+            "version": "2026-10-05-2",
+            "url": "https://github.com/thanvasu-cloud/App-Gongcha-Releases/releases/download/media-2026-10-05-2/vdo-order-here-famous5-20th-v2.mp4",
+            "sha256": "7f4bc2cf9385b8e7c337c1b70773bceb0320eebf11afff63ce932ab906066cd8",
+            "size": 28463116
+        }
+    }
 }
