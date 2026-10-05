@@ -6,16 +6,16 @@
     "size":  343935186,
     "force":  true,
     "releaseNotes":  {
-                         "th":  "1.2.0 ตัวจริง: ตัวดาวน์โหลดอัปเดตใช้ WinHTTP/Schannel ของ Windows แก้ CERTIFICATE_VERIFY_FAILED ตอนโหลดจาก release-assets + ปรับรอบเช็คอัปเดต",
+                         "th":  "1.2.0 à¸•à¸±à¸§à¸ˆà¸£à¸´à¸‡: à¸•à¸±à¸§à¸”à¸²à¸§à¸™à¹Œà¹‚à¸«à¸¥à¸”à¸­à¸±à¸›à¹€à¸”à¸•à¹ƒà¸Šà¹‰ WinHTTP/Schannel à¸‚à¸­à¸‡ Windows à¹à¸à¹‰ CERTIFICATE_VERIFY_FAILED à¸•à¸­à¸™à¹‚à¸«à¸¥à¸”à¸ˆà¸²à¸ release-assets + à¸›à¸£à¸±à¸šà¸£à¸­à¸šà¹€à¸Šà¹‡à¸„à¸­à¸±à¸›à¹€à¸”à¸•",
                          "en":  "1.2.0 Stable: native WinHTTP/Schannel updater transport fixes CERTIFICATE_VERIFY_FAILED on release-assets downloads + check scheduler rework"
                      },
     "releasedAt":  "2026-10-02T06:56:19Z",
     "video":  {
                   "default":  {
-                                  "version":  "2026-09-29",
-                                  "url":  "https://github.com/thanvasu-cloud/App-Gongcha-Releases/releases/download/media-2026-09-29/vdo-order-here-famous5-20th.mp4",
-                                  "sha256":  "7f4bc2cf9385b8e7c337c1b70773bceb0320eebf11afff63ce932ab906066cd8",
-                                  "size":  28463116
+                                  "version":  "2026-10-05",
+                                  "url":  "https://github.com/thanvasu-cloud/App-Gongcha-Releases/releases/download/media-2026-10-05/vdo-kiosk-1080x1498px.mp4",
+                                  "sha256":  "df492c50ad33e8b1c827f8ffc4ef2d5489958cdb3294a68b9b957f51b780a0ba",
+                                  "size":  28305573
                               },
                   "branches":  {
 
