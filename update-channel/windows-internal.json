@@ -13,10 +13,10 @@
     "video": {
         "branches": {},
         "default": {
-            "version": "2026-10-05-2",
-            "url": "https://github.com/thanvasu-cloud/App-Gongcha-Releases/releases/download/media-2026-10-05-2/vdo-order-here-famous5-20th-v2.mp4",
-            "sha256": "7f4bc2cf9385b8e7c337c1b70773bceb0320eebf11afff63ce932ab906066cd8",
-            "size": 28463116
+            "version": "2026-10-05-4",
+            "url": "https://github.com/thanvasu-cloud/App-Gongcha-Releases/releases/download/media-2026-10-05-4/vdo-kiosk-1080x1498px-v2.mp4",
+            "sha256": "df492c50ad33e8b1c827f8ffc4ef2d5489958cdb3294a68b9b957f51b780a0ba",
+            "size": 28305573
         }
     }
 }
