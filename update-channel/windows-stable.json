@@ -12,10 +12,10 @@
     "releasedAt": "2026-10-02T06:56:19Z",
     "video": {
         "default": {
-            "version": "2026-10-20",
-            "url": "https://github.com/thanvasu-cloud/App-Gongcha-Releases/releases/download/media-2026-10-05-3/vdo-gong-cha.mp4",
-            "sha256": "9c7838fd5894ae849c7161c37756da2f05f875a5d838f190d915df7a8b0e1f34",
-            "size": 51932452
+            "version": "2026-10-21",
+            "url": "https://github.com/thanvasu-cloud/App-Gongcha-Releases/releases/download/media-2026-10-21/vdo-kiosk-final-1080x1498px.mp4",
+            "sha256": "7616c79b02815636b8200336a69f1667524b65465e3d4b67d8d499f3d22a8bba",
+            "size": 32837698
         },
         "branches": {}
     }
