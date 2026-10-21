@@ -1,15 +1,15 @@
 {
-    "latest": "1.2.1",
-    "minimumRequired": "1.2.1",
-    "url": "https://github.com/thanvasu-cloud/App-Gongcha-Releases/releases/download/windows-internal-v1.2.1/GongChaKiosk-1.2.1-internal-windows.exe",
-    "sha256": "2379c8fb162ca0d4dcb291801c7c634ecea1a7be2181a29747dbfb122c557017",
-    "size": 343934584,
+    "latest": "1.2.3",
+    "minimumRequired": "1.2.3",
+    "url": "https://github.com/thanvasu-cloud/App-Gongcha-Releases/releases/download/windows-internal-v1.2.3/GongChaKiosk-1.2.3-internal-windows.exe",
+    "sha256": "3e9ac4f10275a1961e36d70ccdb32fec138e958c25ad513920c779f6ded4a6ea",
+    "size": 343940677,
     "force": true,
     "releaseNotes": {
-        "th": "Internal 1.2.1: ตัวดาวน์โหลด WinHTTP/Schannel + Production API + VDO 2026-10-05",
-        "en": "Internal 1.2.1: WinHTTP/Schannel transport + Production API + video 2026-10-05"
+        "th": "Internal 1.2.3: แก้การส่ง Sale 70, คง retry, ให้ยกเลิกผ่านเครื่อง EDC และไม่กลับหน้าแรกขณะชำระ",
+        "en": "Internal 1.2.3: Complete Sale 70 writes, retain retries, cancel on the EDC terminal, and prevent inactivity navigation during payment."
     },
-    "releasedAt": "2026-10-05T08:43:18Z",
+    "releasedAt": "2026-10-21T20:13:34Z",
     "video": {
         "branches": {},
         "default": {
