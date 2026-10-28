@@ -13,10 +13,10 @@
     "video": {
         "branches": {},
         "default": {
-            "version": "2026-10-21",
-            "url": "https://github.com/thanvasu-cloud/App-Gongcha-Releases/releases/download/media-2026-10-21/vdo-kiosk-final-1080x1498px.mp4",
-            "sha256": "7616c79b02815636b8200336a69f1667524b65465e3d4b67d8d499f3d22a8bba",
-            "size": 32837698
+            "version": "2026-10-28",
+            "url": "https://github.com/thanvasu-cloud/App-Gongcha-Releases/releases/download/media-2026-10-28/kiosk_Order+Famous+Choco+FelixCupsleeve_Felixbliss_Update28-10-26.mp4",
+            "sha256": "389e178855decc42a577878b1ad8a745501542585c45d5ac79f0294675f75884",
+            "size": 35992110
         }
     }
 }
