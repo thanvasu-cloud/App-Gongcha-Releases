@@ -12,10 +12,10 @@
     "releasedAt": "2026-10-02T06:56:19Z",
     "video": {
         "default": {
-            "version": "2026-11-03",
-            "url": "https://github.com/thanvasu-cloud/App-Gongcha-Releases/releases/download/media-2026-11-03/kiosk_Order+Famous+Choco+Felixbliss_update3-11-26.mp4",
-            "sha256": "d546cfae88b8d16f49fee041682195a9fab60775443c26917f006e874541a83f",
-            "size": 25133256
+            "version": "2026-11-13",
+            "url": "https://github.com/thanvasu-cloud/App-Gongcha-Releases/releases/download/media-2026-11-13/gongcha13.11.2026.mp4",
+            "sha256": "9869e6943ade0730b22a97559195e8433421d9742039f6affbabf21f58d6dd8f",
+            "size": 30986000
         },
         "branches": {}
     }
