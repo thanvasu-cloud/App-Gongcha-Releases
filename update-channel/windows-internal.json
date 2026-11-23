@@ -1,15 +1,15 @@
 {
-    "latest": "1.2.3",
-    "minimumRequired": "1.2.3",
-    "url": "https://github.com/thanvasu-cloud/App-Gongcha-Releases/releases/download/windows-internal-v1.2.3/GongChaKiosk-1.2.3-internal-windows.exe",
-    "sha256": "3e9ac4f10275a1961e36d70ccdb32fec138e958c25ad513920c779f6ded4a6ea",
-    "size": 343940677,
+    "latest": "1.2.4",
+    "minimumRequired": "1.2.4",
+    "url": "https://github.com/thanvasu-cloud/App-Gongcha-Releases/releases/download/windows-internal-v1.2.4/GongChaKiosk-1.2.4-internal-windows.exe",
+    "sha256": "3badb43c2a54c0f1113bcc2b92a0584e92a1ec641019c9a085d3217dde5c143e",
+    "size": 343947657,
     "force": true,
     "releaseNotes": {
-        "th": "Internal 1.2.3: แก้การส่ง Sale 70, คง retry, ให้ยกเลิกผ่านเครื่อง EDC และไม่กลับหน้าแรกขณะชำระ",
-        "en": "Internal 1.2.3: Complete Sale 70 writes, retain retries, cancel on the EDC terminal, and prevent inactivity navigation during payment."
+        "th": "Internal 1.2.4: เพิ่มฟังก์ชันคูปอง, แสดงราคาสินค้าเป็นบาท, ปรับการชำระเงิน EDC",
+        "en": "Internal 1.2.4: Add coupon feature, show product prices in baht, improve EDC payments"
     },
-    "releasedAt": "2026-10-21T20:13:34Z",
+    "releasedAt": "2026-11-23T08:39:21Z",
     "video": {
         "branches": {},
         "default": {
