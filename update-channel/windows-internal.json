@@ -1,22 +1,24 @@
 {
-    "latest": "1.2.4",
-    "minimumRequired": "1.2.4",
-    "url": "https://github.com/thanvasu-cloud/App-Gongcha-Releases/releases/download/windows-internal-v1.2.4/GongChaKiosk-1.2.4-internal-windows.exe",
-    "sha256": "3badb43c2a54c0f1113bcc2b92a0584e92a1ec641019c9a085d3217dde5c143e",
-    "size": 343947657,
-    "force": true,
-    "releaseNotes": {
-        "th": "Internal 1.2.4: เพิ่มฟังก์ชันคูปอง, แสดงราคาสินค้าเป็นบาท, ปรับการชำระเงิน EDC",
-        "en": "Internal 1.2.4: Add coupon feature, show product prices in baht, improve EDC payments"
-    },
-    "releasedAt": "2026-11-23T08:39:21Z",
-    "video": {
-        "branches": {},
-        "default": {
-            "version": "2026-11-18",
-            "url": "https://github.com/thanvasu-cloud/App-Gongcha-Releases/releases/download/media-2026-11-18/kiosk-biscoff-order-famous-17-11-26.mp4",
-            "sha256": "b5f8573bbc6ac36673abf3008ff8b613f0251d39f6281f2bc6d3b4d955722576",
-            "size": 29937410
-        }
-    }
+    "latest":  "1.2.5",
+    "minimumRequired":  "1.2.5",
+    "url":  "https://github.com/thanvasu-cloud/App-Gongcha-Releases/releases/download/windows-internal-v1.2.5/GongChaKiosk-1.2.5-internal-windows.exe",
+    "sha256":  "577c1245b34680bda79e3f0005834a409a5c8c6074fe7eb5bc23e2440a012c5f",
+    "size":  343948341,
+    "force":  true,
+    "releaseNotes":  {
+                         "th":  "Internal 1.2.5: ปรับการคำนวณคูปอง FREEALL เมื่อซื้อ/แถมสินค้ากลุ่มเดียวกัน",
+                         "en":  "Internal 1.2.5: Fix FREEALL coupon calculation for same product group"
+                     },
+    "releasedAt":  "2026-11-24T20:06:42Z",
+    "video":  {
+                  "branches":  {
+
+                               },
+                  "default":  {
+                                  "version":  "2026-11-18",
+                                  "url":  "https://github.com/thanvasu-cloud/App-Gongcha-Releases/releases/download/media-2026-11-18/kiosk-biscoff-order-famous-17-11-26.mp4",
+                                  "sha256":  "b5f8573bbc6ac36673abf3008ff8b613f0251d39f6281f2bc6d3b4d955722576",
+                                  "size":  29937410
+                              }
+              }
 }
