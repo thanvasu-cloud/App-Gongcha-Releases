@@ -1,15 +1,15 @@
 {
-    "latest":  "1.2.5",
-    "minimumRequired":  "1.2.5",
-    "url":  "https://github.com/thanvasu-cloud/App-Gongcha-Releases/releases/download/windows-internal-v1.2.5/GongChaKiosk-1.2.5-internal-windows.exe",
-    "sha256":  "577c1245b34680bda79e3f0005834a409a5c8c6074fe7eb5bc23e2440a012c5f",
-    "size":  343948341,
+    "latest":  "1.2.6",
+    "minimumRequired":  "1.2.6",
+    "url":  "https://github.com/thanvasu-cloud/App-Gongcha-Releases/releases/download/windows-internal-v1.2.6/GongChaKiosk-1.2.6-internal-windows.exe",
+    "sha256":  "c900672151b6f38db7d475c5c00b3225ec504b0ef0980dc5115e829102a50287",
+    "size":  343950365,
     "force":  true,
     "releaseNotes":  {
-                         "th":  "Internal 1.2.5: ปรับการคำนวณคูปอง FREEALL เมื่อซื้อ/แถมสินค้ากลุ่มเดียวกัน",
-                         "en":  "Internal 1.2.5: Fix FREEALL coupon calculation for same product group"
+                         "th":  "Internal 1.2.6: รองรับคูปองส่วนลดตามไซซ์เครื่องดื่ม (SIZE:S) โดยไม่กระทบกฎเดิม",
+                         "en":  "Internal 1.2.6: Add size-specific drink coupon discounts while preserving existing rules"
                      },
-    "releasedAt":  "2026-11-24T20:06:42Z",
+    "releasedAt":  "2026-11-25T16:01:51Z",
     "video":  {
                   "branches":  {
 
